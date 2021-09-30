@@ -6,7 +6,7 @@
 'BASE_URL' and 'REG_URL' in config.php, otherwise it won't work**
 
 **Recommended PHP Version 5.6.3 and 7.4.12**
-
+*Folder name is payroll*
 
 **Admin Login Details**
 
